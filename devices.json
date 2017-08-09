@@ -1,0 +1,21 @@
+ [
+ {
+    "name": "Yureka Black",
+    "brand": "YU",
+    "codename": "garlic",
+    "afh_folder_id": "201403",
+    "maintainer_name": "Saikat Halder (saikatrockz)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5942628",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-6-t3647234"
+  },
+   {
+    "name": "Yureka",
+    "brand": "YU",
+    "codename": "tomato",
+    "afh_folder_id": "130177",
+    "maintainer_name": "Soubhik Khan (Soubhik_sk83)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6121527",
+    "xda_thread": "https://forum.xda-developers.com/yureka/orig-development/rom-crdroidv1-2-t3502926"
+  }
+  
+ ]
