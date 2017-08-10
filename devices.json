@@ -1,5 +1,95 @@
  [
- {
+  {
+    "name": "G4",
+    "brand": "LG",
+    "codename": "h811",
+    "afh_folder_id": "44006",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/g4/development/rom-crdroidrelease-weekend-t3259786"
+  },   
+  {
+    "name": "G4",
+    "brand": "LG",
+    "codename": "h815",
+    "afh_folder_id": "44007",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/g4/development/rom-crdroidrelease-weekend-t3259786"
+  },    
+  {
+    "name": "Nexus 5X",
+    "brand": "Google",
+    "codename": "bullhead",
+    "afh_folder_id": "43989",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/rom-crdroidrelease-weekend-t3254231"
+  }, 
+   {
+    "name": "Nexus 6P",
+    "brand": "Google",
+    "codename": "angler",
+    "afh_folder_id": "48603",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-crdroid-t3302267"
+  }, 
+   {
+    "name": "Nexus 7 (2103)",
+    "brand": "Google",
+    "codename": "deb",
+    "afh_folder_id": "144701",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
+  }, 
+   {
+    "name": "Nexus 7 (2103)",
+    "brand": "Google",
+    "codename": "flo",
+    "afh_folder_id": "144704",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
+  },   
+   {
+    "name": "One M8",
+    "brand": "HTC",
+    "codename": "m8",
+    "afh_folder_id": "44011",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/showthread.php?t=2753248"
+  }, 
+   {
+    "name": "One M8",
+    "brand": "HTC",
+    "codename": "m8d",
+    "afh_folder_id": "44012",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/showthread.php?t=2753248"
+  },   
+   {
+    "name": "Pixel",
+    "brand": "Google",
+    "codename": "sailfish",
+    "afh_folder_id": "180805",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-crdroidv3-2-t3607271"
+  }, 
+   {
+    "name": "Pixel XL",
+    "brand": "Google",
+    "codename": "marlin",
+    "afh_folder_id": "157906",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-crdroidv2-2-t3565215"
+  }, 
+   {
     "name": "Yureka Black",
     "brand": "YU",
     "codename": "garlic",
